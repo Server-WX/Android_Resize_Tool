@@ -14,7 +14,7 @@
 2. 输入缩放的比例
 3. 点击确定
 
-[视频教程](./video.html)
+### [视频教程](https://server-wx.github.io/Android_Resize_Tool/video.html)
 
 *本项目继承自 [pedro 16797](https://www.simplerockets.com/Mods/View/37659/Resize-tool).*
 
@@ -36,7 +36,7 @@
 2. Input size number, a positive number using '.' for the decimals
 3. Click Convert.
 
-[Video usage](./video.html)
+### [Video usage](https://server-wx.github.io/Android_Resize_Tool/video.html)
 
 *Open source project from [Pedro 16797](https://www.simplerockets.com/Mods/View/37659/Resize-tool).*
 
