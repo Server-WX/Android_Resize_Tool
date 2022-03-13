@@ -14,6 +14,8 @@
 2. 输入缩放的比例
 3. 点击确定
 
+[视频教程](./video.html)
+
 *本项目继承自 [pedro 16797](https://www.simplerockets.com/Mods/View/37659/Resize-tool).*
 
 >点击[此处](https://github.com/Server-WX/Android-Craft-Resize/releases/tag/Public)获取最新版本.
@@ -34,6 +36,8 @@
 2. Input size number, a positive number using '.' for the decimals
 3. Click Convert.
 
-*Open source project from [pedro 16797](https://www.simplerockets.com/Mods/View/37659/Resize-tool).*
+[Video usage](./video.html)
+
+*Open source project from [Pedro 16797](https://www.simplerockets.com/Mods/View/37659/Resize-tool).*
 
 >Click [here](https://github.com/Server-WX/Android-Craft-Resize/releases/tag/Public) Get the latest version.
