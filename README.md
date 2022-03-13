@@ -20,6 +20,8 @@
 
 >点击[此处](https://github.com/Server-WX/Android-Craft-Resize/releases/tag/Public)获取最新版本.
 
+>国内源[下载](https://wwd.lanzouf.com/iUN8F01fbksb)，密码：sr2
+
 ## This is the android version of the Resize tool
 
 #### APP is completely free
