@@ -14,7 +14,7 @@
 2. 输入缩放的比例
 3. 点击确定
 
-### [视频教程](https://server-wx.github.io/Android_Resize_Tool/video.html)
+### [视频教程](https://www.bilibili.com/video/BV1iL4y1u7bi?share_source=copy_web)
 
 *本项目继承自 [pedro 16797](https://www.simplerockets.com/Mods/View/37659/Resize-tool).*
 
