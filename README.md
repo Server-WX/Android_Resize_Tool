@@ -36,7 +36,7 @@
 2. Input size number, a positive number using '.' for the decimals
 3. Click Convert.
 
-### [Video usage](https://server-wx.github.io/Android_Resize_Tool/video.html)
+### [Video usage](https://www.simplerockets.com/Videos/View/177934)
 
 *Open source project from [Pedro 16797](https://www.simplerockets.com/Mods/View/37659/Resize-tool).*
 
