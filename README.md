@@ -18,7 +18,7 @@
 
 *本项目继承自 [pedro 16797](https://www.simplerockets.com/Mods/View/37659/Resize-tool).*
 
->点击[此处](https://github.com/Server-WX/Android-Craft-Resize/releases/tag/Public)获取最新版本.
+>点击[此处](https://github.com/Server-WX/Android_Resize_Tool/releases/tag/Public)获取最新版本.
 
 ## This is the android version of the Resize tool
 
