@@ -22,7 +22,7 @@
 
 *本项目继承自 [pedro 16797](https://www.simplerockets.com/Mods/View/37659/Resize-tool).*
 
->点击[此处](https://github.com/Server-WX/Android_Resize_Tool/releases/tag/Public)获取最新版本.
+>点击[此处](https://github.com/Server-WX/Android_Resize_Tool/releases)获取最新版本.
 
 ## 更新日志
 - v1.1 正式版发布，包含直径修改
@@ -52,7 +52,7 @@
 
 *Open source project from [Pedro 16797](https://www.simplerockets.com/Mods/View/37659/Resize-tool).*
 
->Click [here](https://github.com/Server-WX/Android-Craft-Resize/releases/tag/Public) Get the latest version.
+>Click [here](https://github.com/Server-WX/Android_Resize_Tool/releases) Get the latest version.
 
 ## Update log
 
