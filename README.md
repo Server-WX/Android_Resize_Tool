@@ -38,13 +38,9 @@
 
 1. The first box is the resizer box, for resize the total size of your craft.
 
-2. You Can Only type in Positive Numbers instead of Negatives, for example:
-<br>
-To enlarge the craft to 200%, enter number 2, to narrow it to 20%, enter 0.2
+2. You Can Only type in Positive Numbers instead of Negatives, for example:<br>To enlarge the craft to 200%, enter number 2, to narrow it to 20%, enter 0.2
 
-2. Check the “Only For Diameter“ will modify the Width,Depth and other properties.
-<br>
-Check the ”Only For Size” will modify the Part Scale in the Tinker Panel.
+3. Check the “Only For Diameter“ will modify the Width,Depth and other properties.<br>Check the ”Only For Size” will modify the Part Scale in the Tinker Panel.
 
 4. Click Convert.
 
