@@ -11,8 +11,12 @@
 >先把作品文件移动到该目录下 Android/data/com.infinity.craftresize/files
 
 1. 输入作品名称删掉后面的.xml
-2. 输入缩放的比例
-3. 点击确定
+
+2. 输入框内只能输入正数不能输入负数，举例：<br>将存档放大至200%，输入2。 将存档缩小至20%，输入0.2，以此类推。
+
+3. 选择需要的模式<br>勾选仅修改直径时将指修改油箱的Width和Depth等尺寸<br>勾选仅修改三维时，对油箱的处理转为只修改Tinker Panel中的Part Scale大小
+
+4. 点击确定
 
 ### [视频教程](https://www.bilibili.com/video/BV1iL4y1u7bi?share_source=copy_web)
 
@@ -32,9 +36,17 @@
 
 >Please move the Craft file to Android/data/com.infinity.craftresize/files
 
-1. Input file name, the name of the xml file without the extension.
-2. Input size number, a positive number using '.' for the decimals
-3. Click Convert.
+1. The first box is the resizer box, for resize the total size of your craft.
+
+2. You Can Only type in Positive Numbers instead of Negatives, for example:
+<br>
+To enlarge the craft to 200%, enter number 2, to narrow it to 20%, enter 0.2
+
+2. Check the “Only For Diameter“ will modify the Width,Depth and other properties.
+<br>
+Check the ”Only For Size” will modify the Part Scale in the Tinker Panel.
+
+4. Click Convert.
 
 ### [Video usage](https://www.simplerockets.com/Videos/View/177934)
 
