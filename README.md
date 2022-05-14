@@ -26,7 +26,7 @@
 
 ## 更新日志
 - v1.1 正式版发布，包含直径修改
-- v1.5 更新了Part Scale(三维尺寸)缩放
+- v1.5 更新了Part Scale(三维尺寸)缩放<br>加入了界面语言跟随系统设定而更改
 
 ## This is the android version of the Resize tool
 
@@ -56,5 +56,5 @@
 
 ## Update log
 
-- official release, Added "Only For Diameter"
-- Added "Only For Size"
+- v1.1 official release, Added "Only For Diameter"
+- v1.5 Added "Only For Size"<br>Added follow system language
