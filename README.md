@@ -24,6 +24,10 @@
 
 >点击[此处](https://github.com/Server-WX/Android_Resize_Tool/releases/tag/Public)获取最新版本.
 
+## 更新日志
+- v1.1 正式版发布，包含直径修改
+- v1.5 更新了Part Scale(三维尺寸)缩放
+
 ## This is the android version of the Resize tool
 
 #### APP is completely free
@@ -40,7 +44,7 @@
 
 2. You Can Only type in Positive Numbers instead of Negatives, for example:<br>To enlarge the craft to 200%, enter number 2, to narrow it to 20%, enter 0.2
 
-3. Check the “Only For Diameter“ will modify the Width,Depth and other properties.<br>Check the ”Only For Size” will modify the Part Scale in the Tinker Panel.
+3. Check the "Only For Diameter" will modify the Width,Depth and other properties.<br>Check the "Only For Size" will modify the Part Scale in the Tinker Panel.
 
 4. Click Convert.
 
@@ -49,3 +53,8 @@
 *Open source project from [Pedro 16797](https://www.simplerockets.com/Mods/View/37659/Resize-tool).*
 
 >Click [here](https://github.com/Server-WX/Android-Craft-Resize/releases/tag/Public) Get the latest version.
+
+## Update log
+
+- official release, Added "Only For Diameter"
+- Added "Only For Size"
