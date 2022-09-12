@@ -1,0 +1,37 @@
+<resources>
+    <!-- 中文语言 -->
+    <string name="zh_app_name">SR2缩放程序</string>
+    <string name="zh_craft_name">作品名去掉.xml</string>
+    <string name="zh_resize">缩放比例</string>
+    <string name="zh_button">确定</string>
+    <string name="zh_toWidth">仅修改直径</string>
+    <string name="zh_toScale">仅修改三维</string>
+    <string name="zh_help">帮助</string>
+    <string name="zh_by_name">作者：JasonCaesar</string>
+    <string name="zh_studio">开发商：无限工业工作室</string>
+
+    <string name="zh_toast1">文件名或缩放比例有误</string>
+    <string name="zh_toast2">缩放成功</string>
+    <string name="zh_toast3">已保存在APP软件包下files/</string>
+    <string name="zh_toast4">权限获取成功</string>
+    <string name="zh_toast5">请将作品移动到本APP包下的files文件夹使用</string>
+    <string name="zh_toast6">请授权应用使用内部存储</string>
+
+    <!-- 英文 -->
+    <string name="en_app_name">Resize Tool</string>
+    <string name="en_craft_name">Craft name</string>
+    <string name="en_resize">Resize proportion</string>
+    <string name="en_button">Convert</string>
+    <string name="en_toWidth">Only For Diameter</string>
+    <string name="en_toScale">Only For Size</string>
+    <string name="en_help">Help</string>
+    <string name="en_by_name">By JasonCaesar</string>
+    <string name="en_studio">Publisher:Infinity Industry Studio</string>
+
+    <string name="en_toast1">File name error or number error!</string>
+    <string name="en_toast2">Resize success.</string>
+    <string name="en_toast3">File save to package/files/</string>
+    <string name="en_toast4">Permission success.</string>
+    <string name="en_toast5">Please move the Craft file to package/files/</string>
+    <string name="en_toast6">Please Permission internal storage.</string>
+</resources>
